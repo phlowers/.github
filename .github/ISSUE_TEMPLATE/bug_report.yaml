@@ -5,8 +5,8 @@ body:
   - type: markdown
     attributes:
       value: |
-        # Bug Report 🐛
-        
+        # Bug Report
+
         Thanks for taking the time to fill out this bug report!
 
         Please answer each question below to your best ability. It is okay to leave questions blank if you have to!
@@ -19,7 +19,7 @@ body:
       placeholder: Something is wrong with X when trying to do Y
     validations:
       required: true
-      
+
   - type: textarea
     id: expected
     attributes:
@@ -36,25 +36,24 @@ body:
         - Step 1: ...
         - Step 2: ...
         - ...
-      
+
   - type: textarea
     id: environment
     attributes:
       label: Environment
       description: Please tell us about your environment
       placeholder: |
-        - PowSyBl Artifact Version: ...
+        - Phlowers Artifact Version(s): ...
         - OS Version: ...
 
   - type: textarea
     id: logs
     attributes:
       label: Relevant Log Output
-      description: Please copy and paste any relevant log output.
+      description: Please copy and paste any relevant log output. (You may want to anonymize it first).
 
   - type: textarea
     id: extra
     attributes:
       label: Extra Information
       description: Any extra information, e.g. detailed explanation, stacktraces, related issues, suggestions how to fix, links for us to have context, eg. stackoverflow, etc
-
