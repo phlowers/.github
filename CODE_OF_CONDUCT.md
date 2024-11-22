@@ -20,11 +20,12 @@ No one has all the answers. Questions are essential to growth—ask them freely 
 Choose your words carefully. Avoid harmful language and respect differences. Phlowers will not tolerate:
 
 **Threats or violent language.**  
-Discriminatory remarks, including those based on race, gender, or any other identity.
+Discriminatory remarks, including those based on race, gender, or any other identity.  
 Sharing explicit, violent, or sensitive personal content without consent.
 Personal insults or targeted harassment.
 Encouraging or engaging in harmful behavior.
-Be Mindful of Boundaries.
+
+**Be Mindful of Boundaries.**  
 If someone asks you to stop a behavior, stop immediately. Respect personal and professional boundaries to maintain a safe and supportive environment.
 
 By following this Code of Conduct, we ensure that Phlowers remains a space where creativity, collaboration, and growth can thrive. 
