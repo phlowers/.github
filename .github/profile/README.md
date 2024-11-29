@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Phlowers logo](phlowers_logotxt.png)
+![Phlowers logo](phlowers_logotxt.png){width="50%" align=center class="only-light"}
 
 🙋‍♀️ A short introduction - what is our organization all about?
 
