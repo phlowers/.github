@@ -1,6 +1,7 @@
-## Hi there 👋
+## Welcome to our garden full of...
 
-![Phlowers logo](phlowers_logotxt.png){width="50%" align=center class="only-light"}
+<img src="phlowers_logotxt.png" width="200" height="200" style="display: block; margin: 0 auto"/>
+
 
 🙋‍♀️ A short introduction - what is our organization all about?
 
