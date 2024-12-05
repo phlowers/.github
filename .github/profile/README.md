@@ -14,7 +14,7 @@ The suite includes:
 
 👩‍💻 Useful resources - where can the community find docs?
 
-- [**mecaphlowers** functional documentation](https://phlowers.readthedocs.io/projects/mechaphlowers/en/latest/)
+- [**mechaphlowers** functional documentation](https://phlowers.readthedocs.io/projects/mechaphlowers/en/latest/)
 
 
 🌈 Contribution guidelines - how can the community get involved?
