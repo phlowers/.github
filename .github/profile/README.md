@@ -8,7 +8,7 @@
 Phlowers is an open-source library suite for studying power lines, written in Python.
 
 The suite includes:
-- **mecaphlowers**: a package dedicated to mechanical and geometrical calculations for overhead power lines.
+- **mechaphlowers**: a package dedicated to mechanical and geometrical calculations for overhead lines.
 - **thermohl**: a package focused on thermal analysis of power lines.
 
 
