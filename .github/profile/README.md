@@ -1,6 +1,6 @@
 ## Welcome to our power grid full of...
 
-<img src="phlowers_logotxt.png" width="200" height="200" style="display: block; margin: 0 auto"/>
+<img src="phlowers_fullsize_txt.png" width="200" height="200" style="display: block; margin: 0 auto"/>
 
 
 🙋‍♀️ A short introduction - what is our organization all about?
