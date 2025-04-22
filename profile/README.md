@@ -5,16 +5,19 @@
 
 🙋‍♀️ A short introduction - what is our organization all about?
 
-Phlowers is an open-source library suite for studying power lines, written in Python.
+Phlowers is a collection of open-source tools for studying power lines, Python powered.
 
 The suite includes:
 - **mechaphlowers**: a package dedicated to mechanical and geometrical calculations for overhead power lines.
 - **thermohl**: a package focused on thermal analysis of overhead power lines.
+- **stellar**: an offline web application (PWA) based upon mechaphlowers to do power line analysis. 
 
 
 👩‍💻 Useful resources - where can the community find docs?
 
 - [**mechaphlowers** functional documentation](https://phlowers.readthedocs.io/projects/mechaphlowers/en/latest/)
+- [**thermohl** functional documentation](https://phlowers.readthedocs.io/projects/thermohl/en/latest/)
+- [**stellar** functional documentation](https://phlowers.readthedocs.io/projects/Stellar/en/latest)
 
 
 🌈 Contribution guidelines - how can the community get involved?
