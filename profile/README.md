@@ -15,7 +15,7 @@ The suite includes:
 - **stellar**: an offline web application (PWA) based upon mechaphlowers to do power line analysis. 
 
 
-👩‍💻 Useful resources - where can the community find docs?
+## 👩‍💻 Useful resources - where can the community find docs?
 
 - [**mechaphlowers** functional documentation](https://phlowers.readthedocs.io/projects/mechaphlowers/en/latest/)
 - [**thermohl** functional documentation](https://phlowers.readthedocs.io/projects/thermohl/en/latest/)
