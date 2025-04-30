@@ -30,5 +30,5 @@ Take a look to the in-browser jupyter (a.k.a JupyterLite) demo notebooks and try
 
 ## 🌈 Contribution guidelines - how can the community get involved?
 
-- Join the community on [Slack](https://join.slack.com/t/phlowerscommunity/shared_invite/zt-2vjm0dsv5-6ugYwU7_9TSP7j9hUVZH4A), ask for help, report bugs, help other users, provide feedback, present your use cases, etc.
+- Join the community on [Slack](https://join.slack.com/t/phlowerscommunity/shared_invite/zt-326jo8h3r-fGSty_tPOb9wFhTsoZQ3KQ), ask for help, report bugs, help other users, provide feedback, present your use cases, etc.
 - Contribute in the code soon; we just need a few months to establish a solid foundation.
