@@ -20,21 +20,21 @@ body:
       required: true
 
   - type: textarea
-    id: description
+    id: description_ui
     attributes:
       label: User Interface 
       description: UI part of the feature
       placeholder: A clear and concise description...
 
   - type: textarea
-    id: expected
+    id: description_back
     attributes:
       label: Client Backend
       description: Offline client backend part
       placeholder: A clear and concise description...
 
   - type: textarea
-    id: motivation
+    id: description_datamodel
     attributes:
       label: Client Data model
       description: Data model part
