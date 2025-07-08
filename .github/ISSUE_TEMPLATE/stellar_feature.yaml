@@ -1,0 +1,47 @@
+name: Stellar Client Feature
+description: Suggest an idea for this project
+labels: ["feature"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        # Feature request
+
+        Thanks for taking the time to fill out this feature request!
+
+        Please answer each question below to your best ability. It is okay to leave questions blank if you have to!
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: Description of the feature
+      placeholder: A clear and concise description...
+    validations:
+      required: true
+
+  - type: textarea
+    id: description
+    attributes:
+      label: User Interface 
+      description: UI part of the feature
+      placeholder: A clear and concise description...
+
+  - type: textarea
+    id: expected
+    attributes:
+      label: Client Backend
+      description: Offline client backend part
+      placeholder: A clear and concise description...
+
+  - type: textarea
+    id: motivation
+    attributes:
+      label: Client Data model
+      description: Data model part
+      placeholder: A clear and concise description...
+
+  - type: textarea
+    id: extra
+    attributes:
+      label: Extra Information
+      description: A clear and concise description...
